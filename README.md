@@ -1,4 +1,4 @@
-# Hi, ich bin Martin
+# Hallo, Martin Funk hier!
 
 **Senior Java-Entwickler & Softwarearchitekt** mit 25+ Jahren Projekterfahrung.
 Diplom-Mathematiker (RWTH Aachen) aus Wiesbaden.
