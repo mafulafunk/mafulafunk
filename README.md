@@ -1,23 +1,36 @@
 # Hi, ich bin Martin
 
-Freelance Software-Entwickler aus Wiesbaden.
+**Senior Java-Entwickler & Softwarearchitekt** mit 25+ Jahren Projekterfahrung.
+Diplom-Mathematiker (RWTH Aachen) aus Wiesbaden.
+
+## Zertifizierungen
+
+- Oracle Certified Professional: Java SE 17 Developer
+- Linux Professional Institute LPIC-1
 
 ## Tech Stack
 
-```text
-Java        ████████████░░░░   Backend, Quarkus
-TypeScript  ████████░░░░░░░░   Full-Stack
-Python      ██████░░░░░░░░░░   Scripting, Automation
-Shell       ████░░░░░░░░░░░░   DevOps, CLI Tools
 ```
+Java         ████████████████   Spring Boot, Hibernate, Quarkus
+SQL          ██████████████░░   Oracle, MySQL, MongoDB
+DevOps       ████████████░░░░   Docker, Jenkins, Maven, Git
+Cloud        ██████████░░░░░░   AWS, Kubernetes
+```
+
+## Schwerpunkte
+
+- Enterprise-Java & Softwarearchitektur
+- Technische Beratung & Risikobewertung
+- Agile Teams & Coaching
+- Oeffentlicher Sektor & Finanzbranche
 
 ## Projekte
 
 - [quarkus-workshop](https://github.com/eigenfunk/quarkus-workshop) - Hands-on Quarkus Workshop
-- [blueskyRoast](https://github.com/eigenfunk/blueskyRoast) - Bluesky Bot
-- [sql-in-the-shell](https://github.com/eigenfunk/sql-in-the-shell) - SQL direkt in der Shell
+- [freelance-recruiting-de](https://github.com/eigenfunk/freelance-recruiting-de) - Kuratierte Liste deutscher Freelancer-Plattformen
 
 ## Kontakt
 
-- [eigenfunk.de](https://eigenfunk.de)
-- Wiesbaden, Germany
+- Web: [eigenfunk.de](https://eigenfunk.de)
+- Mail: Martin@MartinFunk.de
+- Standort: Wiesbaden, Germany
