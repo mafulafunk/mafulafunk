@@ -1,7 +1,9 @@
 # Hallo, Martin Funk hier!
 
-**Senior Java-Entwickler & Softwarearchitekt** mit 25+ Jahren Projekterfahrung.
-Diplom-Mathematiker (RWTH Aachen) aus Wiesbaden.
+**Senior Software Engineer & Architect** mit 25+ Jahren Projekterfahrung.
+Diplom-Mathematiker (RWTH Aachen), Wiesbaden.
+
+Aktueller Fokus: AI-augmented Development, LLM-Integration und Swift/iOS.
 
 ## Zertifizierungen
 
@@ -11,23 +13,25 @@ Diplom-Mathematiker (RWTH Aachen) aus Wiesbaden.
 ## Tech Stack
 
 ```
-Java         ████████████████   Spring Boot, Hibernate, Quarkus
-SQL          ██████████████░░   Oracle, MySQL, MongoDB
-DevOps       ████████████░░░░   Docker, Jenkins, Maven, Git
-Cloud        ██████████░░░░░░   AWS, Kubernetes
+Java/Spring  ████████████████   Spring Boot, Hibernate, Quarkus
+AI/LLM       ██████████████░░   Claude API, OpenRouter, LangChain4j, MCP
+Swift/iOS    ████████████░░░░   SwiftUI, watchOS, HealthKit, XcodeGen
+TypeScript   ████████████░░░░   Node.js, React, Playwright
+DevOps       ████████████░░░░   Docker, Traefik, Hetzner, AWS
+SQL          ██████████░░░░░░   Oracle, PostgreSQL, SQLite
 ```
 
 ## Schwerpunkte
 
 - Enterprise-Java & Softwarearchitektur
+- AI-augmented Development & LLM-Tooling
+- Swift/iOS & watchOS Apps
 - Technische Beratung & Risikobewertung
-- Agile Teams & Coaching
-- Oeffentlicher Sektor & Finanzbranche
 
 ## Projekte
 
-- [quarkus-workshop](https://github.com/eigenfunk/quarkus-workshop) - Hands-on Quarkus Workshop
-- [freelance-recruiting-de](https://github.com/eigenfunk/freelance-recruiting-de) - Kuratierte Liste deutscher Freelancer-Plattformen
+- [freelance-recruiting-de](https://github.com/eigenfunk/freelance-recruiting-de) - Kuratierte Liste deutscher Freelancer-Vermittler
+- [til](https://github.com/mafulafunk/til) - Today I Learned
 
 ## Kontakt
 
