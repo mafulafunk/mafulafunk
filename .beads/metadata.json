@@ -1,0 +1,7 @@
+{
+  "database": "dolt",
+  "backend": "dolt",
+  "dolt_mode": "embedded",
+  "dolt_database": "mafulafunk",
+  "project_id": "de47a39d-b75f-416a-a754-69ff62a49d44"
+}
